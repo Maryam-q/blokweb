@@ -43,7 +43,7 @@ Home
 <img src="images/home_nike.png" width="375px" alt="omschrijving van de pagina">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-hier de naam van de pagina  
+Jongenskleding  
 <img src="images/jongenskleding.png" width="375px" alt="omschrijving van de pagina">
  
 </details>
