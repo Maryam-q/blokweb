@@ -40,7 +40,7 @@ link naar de website: https://www.webtoons.com/en/
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 Webtoon  
-<img src="images/scherm1" width="375px" alt="omschrijving van de pagina">
+<img src="images/scherm1.jpg" width="375px" alt="omschrijving van de pagina">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 Episode  
