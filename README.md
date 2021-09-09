@@ -36,15 +36,15 @@ Surface plane
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-link naar de website: https://www.nike.com/nl/
+link naar de website: https://www.webtoons.com/en/
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-Home  
-<img src="images/home_nike.png" width="375px" alt="omschrijving van de pagina">
+Webtoon  
+<img src="images/scherm1" width="375px" alt="omschrijving van de pagina">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-Jongenskleding  
-<img src="images/jongenskleding.png" width="375px" alt="omschrijving van de pagina">
+Episode  
+<img src="images/scherm2.png" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
