@@ -1,0 +1,48 @@
+*, html {
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+/****************/
+/* Stylen header */
+/****************/
+header {
+    background-color: rgb(49, 49, 49);
+}
+
+
+
+/****************************/
+/* Stylen eerste section */
+/****************************/
+
+
+main section button {
+    border-radius: 2em;
+    background-color: transparent;
+    max-width: 100%;
+    height: auto;
+}
+
+section img {
+    display: flex;
+    flex-direction: column-reverse;
+    width: 15%;
+    height: auto;
+}
+
+
+
+/****************/
+/* div stylen */
+/****************/
+
+
+.banner {
+    display: flex;
+    background-image: url(images/bgwebtoon.png);
+    background-position: center;
+    background-size: cover;
+    height: 50vw;
+}
