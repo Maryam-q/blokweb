@@ -78,7 +78,8 @@ hier de naam van de pagina
 <summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Het lukte mij niet echt om de tekst op het plaatje te krijgen. 
+Op mijn tweede html pagina zijn er reacties, ik weet hier niet welke html tags ik moet gebruiken.
 
 
 ### Agenda voor meeting
@@ -94,10 +95,9 @@ samen met je groepje opstellen
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- Iets meer comments plaatsen
+- Voor mijn tweede pagina kan ik de input en field tag gebruiken, ik weet niet hoe ik dat precies moet doen. Anders kan ik ook de <p> tag gebruiken.
+
 
 </details>
 
